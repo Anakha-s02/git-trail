@@ -11,7 +11,6 @@ console.log(5+'5');// number coverted to string
 
 console.log(5-5);//normal subtraction
 console.log('5'-5);// string converted to number
-console.log('5'-'anakha');//displays NaN (Not a number)
 console.log(5-'anakha');//displays NaN (Not a number)
 //console.log(5-anakha);
 
